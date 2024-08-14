@@ -3,5 +3,5 @@
 my educational projects
 
 <div>
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXB4OTVwOGk2Njlia2JlaGFnNGdqaXg5YzZxc3JzNzkyNWNjam1wcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" width="150" height="100">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXB4OTVwOGk2Njlia2JlaGFnNGdqaXg5YzZxc3JzNzkyNWNjam1wcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" width="250" height="200">
 <div>
